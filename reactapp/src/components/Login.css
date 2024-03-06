@@ -1,0 +1,39 @@
+.account-form{
+  max-width: 35%;
+  min-width: 25%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 6px;
+  color: #ce962e;
+  background-color: #f2f2f2;
+  
+}
+.ui.divider {
+  margin: 40px 0;
+  border-top: 1px solid rgb(2, 0, 36);
+  padding: 1rem;;
+}
+
+label {
+  font-weight: bold;
+  font-size: 15px;
+  }
+h1 {
+    text-align: center;
+    color: #ce962e;
+    padding-top: 90px;
+  }
+
+  .btn {
+  
+      background-color: rgb(2, 0, 36);
+      border: none;
+      color: white;
+      padding: 9px ;
+      text-align: center;
+      cursor: pointer;
+      font-weight: bold;
+
+   
+    
+  }

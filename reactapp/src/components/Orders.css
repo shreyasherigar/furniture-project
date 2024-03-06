@@ -1,0 +1,28 @@
+
+.ordersHeading {
+    font-family: Arial, sans-serif;
+    text-align: center; 
+  }
+  .ordersHeading h1{
+    text-align: center;
+    color:#ce962e;
+    font-size: 30px;
+  }
+  
+  .ordersContainer {
+    width: 80%; 
+    margin: 0 auto; 
+    background-color:rgb(2, 0, 36);
+    color: white;
+  }
+  
+  .orderItem {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+   .content {
+    margin-top: 10px;
+  }
+  

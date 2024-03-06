@@ -1,0 +1,53 @@
+.registercontainer {
+  background-color: #f2f2f2;
+  max-width: 35%;
+  min-width: 25%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.ui.form {
+  color: #ce962e;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: right;
+  color: rgb(2, 0, 36);
+}
+
+.ui.divider {
+  margin: 20px 0;
+  border-top: 1px solid #ce962e;
+}
+
+.field {
+  margin-bottom: 15px;
+}
+
+label {
+  display: inline-block;
+  width: 30%;
+  text-align: left;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+input {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #ce962e;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: rgb(2, 0, 36);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+}

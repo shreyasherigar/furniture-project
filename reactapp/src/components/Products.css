@@ -1,0 +1,72 @@
+
+.product .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 1.5rem;
+}
+
+.product .box-container .box{
+    border: 0.1rem solid var(--main-color);
+    box-shadow: var(--box-shadow);
+    border-radius: 1.5rem;
+
+}
+
+.product .box-container .box .image{
+    height: 25rem;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 1.5rem;
+}
+
+.product .box-container .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.product .box-container .box:hover .image img{
+    transform: scale(1.1);
+}
+
+.product .box-container .box .content{
+    padding: 1.5rem 2rem;
+}
+
+.product .box-container .box .content h3{
+    font-size: 2rem;
+    color:black;
+}
+.product h2{
+    color:red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.product .box-container .box .content p{
+    font-size: 1.4rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+.product .box-container .box .content .btn{
+    background-color: rgb(2, 0, 36);
+    border-radius: 1.6rem;
+}
+
+.product .box-container .box .content .icons{
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 0.1rem solid var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(2, 0, 36);
+
+}
+
+.product .box-container .box .content .icons a{
+    font-size: 1.6rem;
+    color: black;
+    font-weight: bold;
+}
