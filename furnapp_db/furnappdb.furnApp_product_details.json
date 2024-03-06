@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65c8b4e0fad71dd6aa26ac4c"
+  },
+  "id": 3,
+  "name": "sofa",
+  "description": "Compact is what you need, and make your living room look cool.",
+  "condition": "",
+  "noofdays": 15,
+  "Category_id": 5,
+  "options": "{\"size\": \"10L x 10B x 71H inches\", \"color\": \"white\", \"imageurl\": \"https://caitlinmariedesign.com/wp-content/uploads/2022/04/Organic-Modern-Living-Room-with-White-Sofa-0265.jpg\"}",
+  "rentalOptions": "[{\"tenure\": 3, \"ratepermonth\": \"540\"}, {\"tenure\": 6, \"ratepermonth\": \"500\"}, {\"tenure\": 9, \"ratepermonth\": \"470\"}, {\"tenure\": 12, \"ratepermonth\": \"420\"}]"
+},
+{
+  "_id": {
+    "$oid": "65c8b653fad71dd6aa26ac4d"
+  },
+  "id": 4,
+  "name": "woodenwardrobe",
+  "description": "Compact is what you need, and compact is what you get with the Magnum wardrobe.",
+  "condition": "",
+  "noofdays": 10,
+  "Category_id": 4,
+  "options": "{\"size\": \"16L x 18B x 71H inches\", \"color\": \"Natural brown\", \"imageurl\": \"https://wakefitdev.gumlet.io/img/wardrobes/r1/WWRB4DMH1GINGHAMCWR1/1.jpg?w=1700\"}",
+  "rentalOptions": "[{\"tenure\": 3, \"ratepermonth\": \"540\"}, {\"tenure\": 6, \"ratepermonth\": \"500\"}, {\"tenure\": 9, \"ratepermonth\": \"470\"}, {\"tenure\": 12, \"ratepermonth\": \"420\"}]"
+},
+{
+  "_id": {
+    "$oid": "65c8c611da4d61d867829fde"
+  },
+  "id": 5,
+  "name": "Bed",
+  "description": "Compact is what you need, and compact is what you get with the Magnum wardrobe.",
+  "condition": "",
+  "noofdays": 10,
+  "Category_id": 4,
+  "options": "{\"size\": \"16L x 18B x 71H inches\", \"color\": \"Natural brown\", \"imageurl\": \"https://www.at-home.co.in/cdn/shop/products/TimberlandkingLSWALNUT_23d4ee80-815e-4964-a8b2-06aa99e569f6.jpg?v=1659679856\"}",
+  "rentalOptions": "[{\"tenure\": 3, \"ratepermonth\": \"540\"}, {\"tenure\": 6, \"ratepermonth\": \"500\"}, {\"tenure\": 9, \"ratepermonth\": \"470\"}, {\"tenure\": 12, \"ratepermonth\": \"420\"}]"
+},
+{
+  "_id": {
+    "$oid": "65d8ac13df4f3f0f183fc826"
+  },
+  "id": 6,
+  "name": "wardrobe",
+  "description": "Compact is what you need, and compact is what you get with the Magnum wardrobe.",
+  "condition": "",
+  "noofdays": 10,
+  "Category_id": 4,
+  "options": "{\"size\": \"16L x 18B x 71H inches\", \"color\": \"Natural brown\", \"imageurl\": \"https://bantia.in/cdn/shop/products/kioshi-4-door-wardrobe-with-mirror-in-columbia-walnut-finish--by-valuewud-kioshi-4-door-wardrobe-wit-wcqdmi_600x.jpg?v=1660227686\"}",
+  "rentalOptions": "[{\"tenure\": 3, \"ratepermonth\": \"540\"}, {\"tenure\": 6, \"ratepermonth\": \"500\"}, {\"tenure\": 9, \"ratepermonth\": \"470\"}, {\"tenure\": 12, \"ratepermonth\": \"420\"}]"
+}]

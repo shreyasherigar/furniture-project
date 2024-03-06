@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65df4e5d6768953e419be446"
+  },
+  "customer_id": "Yaks0",
+  "status": "ORDERED",
+  "items": "wardrobe"
+},
+{
+  "_id": {
+    "$oid": "65df52ad6768953e419be447"
+  },
+  "customer_id": "Yaks0",
+  "status": "ORDERED",
+  "items": "woodenwardrobe"
+},
+{
+  "_id": {
+    "$oid": "65df55186768953e419be448"
+  },
+  "customer_id": "Yaks0",
+  "status": "ORDERED",
+  "items": "woodenwardrobe"
+},
+{
+  "_id": {
+    "$oid": "65df61dc6768953e419be449"
+  },
+  "customer_id": "karthik1",
+  "status": "ORDERED",
+  "items": "wardrobe"
+},
+{
+  "_id": {
+    "$oid": "65e75408cfa5b30e66eec9e3"
+  },
+  "customer_id": "manu",
+  "status": "ORDERED",
+  "items": "woodenwardrobe"
+}]
