@@ -35,3 +35,4 @@ Orders Page:
 Cart Page:
   ● Displays items added to the cart.
   ● Generates invoice upon checkout.
+
