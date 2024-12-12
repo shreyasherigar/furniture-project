@@ -1,7 +1,5 @@
 Project Description:
-RentFurlax, a home furnishing rental company, targets individuals frequently relocating due to job
-transfers or other reasons. Beginning in Mumbai, RentFurlax aims to expand its services to multiple
-urban areas, leveraging online platforms and collaborating with local vendors.
+RentFurlax, a home furnishing rental company application.
 
 
 Features:
